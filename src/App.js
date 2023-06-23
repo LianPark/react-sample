@@ -14,7 +14,7 @@ import PortPage from './components/pages/PortPage.jsx';
 const App = () => {
   return (
     <BrowserRouter>
-    <Header attr={'header__wrap score3 bg-black'} />
+    <Header attr={'header__wrap bg-black score3'} />
     <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/intro" element={<IntroPage />} />
