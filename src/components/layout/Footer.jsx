@@ -9,7 +9,7 @@ const Footer = (props) => {
         <div className="footer__text">
           <h5>KIMHYEONBEEN</h5>
           <p>
-            질문 환영 :'🎉': <br />
+            질문 환영 <br />
             궁금한 사항은 메일로 연락주세요!
             <Link to="mailto:esansi@naver.com">esansi@naver.com</Link>
           </p>
