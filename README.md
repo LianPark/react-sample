@@ -2,9 +2,9 @@
 # React를 이용한 사이트
 ![react01](https://github.com/hyeonbeen97/site-react01/assets/125417850/fc5c24f7-c171-4c37-932e-6cd4803b9246)
 
-## 소개
+## 👉소개
 이 테니스 웹사이트는 React와 React Router를 사용하여 구축되었습니다. 홈페이지에서는 간결하고 직관적인 디자인과 사용자들이 손쉽게 접근할 수 있는 내비게이션을 제공합니다. "Intro", "Youtube", "Movie", "Unsplash", 그리고 "Port" 페이지에서는 각각 다른 주제와 기능을 소개합니다.
-## 사용 스택
+## 🔑사용 스택
  -React: JavaScript 라이브러리로, 사용자 인터페이스를 구축하기 위해 사용됩니다.
  
  -useEffect: React의 Hook으로, 함수형 컴포넌트에서 부수 효과(side effect)를 수행할 수 있게 해줍니다. 컴포넌트가 렌더링되고 나서 실행되는 비동기 로직을 처리하는 데 사용됩니다.
@@ -30,7 +30,7 @@
  -Swiper Modules: Swiper에서 제공하는 추가 모듈로, Navigation(네비게이션 화살표), Pagination(페이지네이션)과 Autoplay(자동 재생)을 사용하고 있습니다.
  
  -SCSS: CSS의 확장 버전으로, 스타일을 구성하고 관리하는 데 사용됩니다. .scss 확장자로 스타일 파일을 작성하고 컴파일하여 일반 CSS로 변환하여 사용합니다.
-## 상세페이지
+## 🙄상세페이지
 ![react02](https://github.com/hyeonbeen97/site-react01/assets/125417850/9b8d28e8-6d64-4b97-8180-758b905b833f)
 
 ![react03](https://github.com/hyeonbeen97/site-react01/assets/125417850/0d35cedd-9a9e-4f6c-ab7e-cd2d0ad258f7)
